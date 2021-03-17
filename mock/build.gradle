@@ -27,6 +27,5 @@ android {
 }
 
 dependencies {
-    implementation "androidx.annotation:annotation:${findProperty('ANDROID_X_VERSION')}"
     implementation project(path: ':library')
 }
