@@ -1,4 +1,4 @@
-package com.github.techjhp
+package com.github.techjhp.mock
 
 import org.junit.Test
 
